@@ -1,4 +1,4 @@
-# Understanding Regular Expressions (Regex)
+# Regex Revealed: A Detailed Tutorial for Developers
 
 Regular expressions (regex) are powerful tools for pattern matching and text manipulation. This tutorial will break down various components of regex patterns, using an example of a regex pattern used to validate email addresses. We will explain each component in detail to help you understand how regex works.
 
